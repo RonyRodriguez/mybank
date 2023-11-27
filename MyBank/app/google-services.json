@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "846928492406",
+    "firebase_url": "https://teststor-c187c-default-rtdb.firebaseio.com",
+    "project_id": "teststor-c187c",
+    "storage_bucket": "teststor-c187c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846928492406:android:d17b94b8f39e7076442c57",
+        "android_client_info": {
+          "package_name": "com.storicard.mybank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7aNNc5C8FevSM8JL8Q_o76Ckuf8x6uWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
